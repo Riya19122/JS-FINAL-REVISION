@@ -7,8 +7,8 @@
 
 console.log("riya")
 
-let number;  // undefined
-let char = null // null it means here it is empty
+let number;  // undefined 
+let char = null // null it means here it is empty 
 
 // Primitive Datatypes 
   // 1. number  => 2 to the power of 53 which is range
