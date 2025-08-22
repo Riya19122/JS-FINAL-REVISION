@@ -1,6 +1,6 @@
 // Arrays
    // Array declaration
-const myArr = [0,1,2,3,4,5,6]
+const myArr = [0,1,2,3,4,5,9]
 // const heroes = ["shaktiman" , "naagraj"]
 // const myArr2 = new Array(1 ,2 ,3 , 4,5 ,6)
 
@@ -46,6 +46,8 @@ const myArr = [0,1,2,3,4,5,6]
     // console.log(myArr.splice(1,3));
 
     // console.log("C" ,myArr) // here after splice it gives only modifying array
+
+
 
     
 
