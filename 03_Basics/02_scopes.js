@@ -41,7 +41,7 @@ if(true){
 // console.log(username)    // here this is also block scope for the whole , it give error after the loop ends
 
 
-// *******************************  Interesting Concept  ********************************
+// *******************************  Interesting Concept : Hoisting ********************************
 console.log(addOne(5));    // it will not give error bcoz we can call function anywhere
 function addOne(num){
     return num+1
